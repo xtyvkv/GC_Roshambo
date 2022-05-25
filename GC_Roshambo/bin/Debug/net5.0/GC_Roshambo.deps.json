@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GC_Roshambo/1.0.0": {
+        "runtime": {
+          "GC_Roshambo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GC_Roshambo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
